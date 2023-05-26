@@ -1,0 +1,57 @@
+npx create-react-app react-portfolio
+
+Install all the packages first
+cd react-portfolio
+npm i @emailjs/browser
+npm i @fortawesome/free-brands-svg-icons
+npm i @fortawesome/free-solid-svg-icons
+npm i @fortawesome/react-fontawesome
+npm i animate.css
+npm i gsap-trial
+npm i loaders.css
+npm i react-leaflet
+npm i react-loaders
+npm i react-router-dom
+npm i sass
+
+Create a file called .prettierrc
+
+Change the app.css files name with to App.scss and also in the file that calls it
+
+Write the necessary code in the App.scss
+
+Add the Assets folder into the src folder which contains the images etc.
+
+You can now run the app with npm start to see if the app works
+
+Now edit the index.css file to the right form
+
+Edit the index.js too
+
+Next edit App.js file by deleting initial code and writing the new code
+
+Create a components folder for all the components in the src folder
+
+In the components Folder create a folder called Layout
+
+In the Layout create a file called index.js and index.scss
+
+Write the necessary code in the newly created index.js and index.scss file
+
+In the components folder create another folder called Sidebar and then create index files like was done before
+
+The Layout (index.js) imports Sidebar
+
+Now create a folder call Home in components folder and create the regular files needed
+
+Write this code in the App.js file as a Route " <Route index element={<Home} />". I can't really explain what it will do for now 
+
+create a new Folder called AnimatedLetters and create the regular files
+
+Make sure that you put some animation in the letter of the name and job
+
+Create other folders
+
+
+Description
+This project
